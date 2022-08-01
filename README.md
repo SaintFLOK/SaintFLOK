@@ -1,5 +1,5 @@
 <div id="header" align="center">
-  <img src="https://github.com/SaintFLOK/SaintFLOK/blob/645f1203cf04e0c4aae81ef099e5fdf6a7efc2e5/assets/404.gif" width="250"/>
+  <img src="https://github.com/SaintFLOK/SaintFLOK/blob/7a49a8dd5be12594fdef9a5616f261e3b6a17fdd/assets/01.gif" width="500"/>
 <h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=53F754&center=true&vCenter=true&lines=Hi!+Welcome+to+my+profile!" alt="Typing SVG" /></a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=53F754&center=true&vCenter=true&lines=Check+out+my+portfolio:" alt="Typing SVG" /></a>
 </div>
