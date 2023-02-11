@@ -1,6 +1,6 @@
 <div id="header" align="center">
 <img src="https://github.com/SaintFLOK/SaintFLOK/blob/409e5544ef4b07f23940259b973ef22ce7c9f7f1/assets/D7JO.gif" height="300" width="800"/>
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=53F754&center=true&vCenter=true&lines=<br>Wake+up,+Neo!</br>+Welcome+to+my+profile!" alt="Typing SVG" /></a></h1>
+<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=53F754&center=true&vCenter=true&lines=  Wake+up,+Neo!+Welcome+to+my+profile!" alt="Typing SVG" /></a></h1>
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?color=53F754&center=true&vCenter=true&lines=Check+out+my+portfolio:" alt="Typing SVG" /></a>
 </div>
 <div>
